@@ -9,6 +9,6 @@ Also IT Consultant in project management, IT Strategy and digital transformation
 - 📫 How to reach me: benjamin.roger@sapiowork.com
 - 👔 Open for freelance and job opportunities
 
-What do I do ? Check my sites out:
+What to know more? Visit my sites!
 - 💻 Freelance website: https://www.sapiowork.com
 - 📄 Online resume: https://resume.benjaminroger.com
