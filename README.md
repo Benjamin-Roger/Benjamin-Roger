@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Working as a freelance web developer @Sapiowork, making websites with Gatsby, Next.js and GeneratePress.
+Working as a freelance web developer @Sapiowork, making websites with React, Next.js, Gatsby.js and GeneratePress.
 
 Also IT Consultant in project management, IT Strategy and digital transformation.
 
