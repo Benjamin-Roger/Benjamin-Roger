@@ -8,4 +8,4 @@ Also IT Consultant in project management, IT Strategy and digital transformation
 - 🌱 I’m currently improving my knowledge on Laravel for RESTful API projects
 - 📫 How to reach me: benjamin.roger@sapiowork.com
 
-What to know more? Visit my online resume: https://resume.benjaminroger.com
+What to know more? Visit https://www.benjaminroger.com
